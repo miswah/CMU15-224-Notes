@@ -1,4 +1,4 @@
-This repo is for [CMU15-224](https://15445.courses.cs.cmu.edu/fall2025/) course from [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5&si=H9ZcBiAEg9WzNYS4) 
+This repo is for [CMU15-224](https://15445.courses.cs.cmu.edu/fall2025/) course from [Youtube](https://youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5&si=H9ZcBiAEg9WzNYS4) the course is taught in C++ so the supplimenty labs are from [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/) (Github Repository)[https://github.com/MIT-DB-Class/simple-db-hw-2022.git] [Youtube](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
 
 
 
